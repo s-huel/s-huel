@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I'm Felix Huel </h1>
+<h1 align="center"> <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Felix Huel </h1>
 <h4 align="center"> A passionate front-end student from the Netherlands </h4>
 
 <p align="center"> 
