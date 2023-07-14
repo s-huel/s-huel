@@ -9,7 +9,7 @@
 
   
 <details>
-<summary>💿 Favourite all time things</summary>
+<summary> Favourite all time things</summary>
 
 * [ATEEZ](https://ateez.kqent.com/)
 * [Fried Chicken](https://en.wikipedia.org/wiki/Fried_chicken)
@@ -18,6 +18,9 @@
 
 
 </details>
+
+### 💿 Now playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313hvrk7tpzadumr5udtqkuvxk2y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=33a346&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
