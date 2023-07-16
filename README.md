@@ -9,7 +9,7 @@
 ### About me
 - 🌱 I’m currently learning **Javascript**
 - 📫 How to reach me: **felix.huel6@gmail.com**
-- 🔭 I’m currently working on **RRIMI**, a private project (on pause) and **fake entertainment**.
+- 🔭 I’m currently working on **RRIMI**, a private project (on pause) and **entertainment**, which is for fun.
 
 ---
 
