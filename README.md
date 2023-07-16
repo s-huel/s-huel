@@ -42,7 +42,7 @@
 ---
 
 ### Support:
-<p><a href="https://www.buymeacoffee.com/https://bmc.link/felixhuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/felixhuel" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/felixhuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy felix a coffee" /></a></p><br><br>
 </td
 
 <tr>
