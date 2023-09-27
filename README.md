@@ -9,14 +9,13 @@
 ### About me
 - 🌱 I’m currently learning **Javascript**
 - 📫 How to reach me: **felix.huel6@gmail.com**
-- 🔭 I’m currently working on **RRIMI**, a private project (on pause) and **entertainment**, which is for fun.
+- 🔭 I’m currently working on my **PORTFOLIO** and **ENTERTAINMENT**, which is for fun.
 
 ---
 
 <details>
 <summary> Favourite all time things</summary>
 
-* [ATEEZ](https://ateez.kqent.com/)
 * [Fried Chicken](https://en.wikipedia.org/wiki/Fried_chicken)
 * [Bears](https://en.wikipedia.org/wiki/Bear)
 * [Bit Academy](https://www.bit-academy.nl/)
@@ -30,14 +29,6 @@
 
 ### Portfolio
 > *pending...*
-
----
-
-### Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/felix-huel-1407a8283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felix huel" height="30" width="40" /></a>
-<a href="https://instagram.com/steallix_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="steallix_" height="30" width="40" /></a>
-</p>
 
 ---
 
@@ -64,6 +55,16 @@
  
 
 </details>
+
+---
+
+### Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/felix-huel-1407a8283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felix huel" height="30" width="40" /></a>
+<a href="https://instagram.com/steallix_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="steallix_" height="30" width="40" /></a>
+</p>
+
+---
 
 </td>
 </tr>
