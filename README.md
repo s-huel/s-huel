@@ -7,7 +7,7 @@
 <td width="50%" valign="top">
   
 ### About me
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **PHP**
 - 📫 How to reach me: **felix.huel6@gmail.com**
 - 🔭 I’m currently working on my **PORTFOLIO** and **ENTERTAINMENT**, which is for fun.
 
