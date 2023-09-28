@@ -9,7 +9,7 @@
 ### About me
 - 🌱 I’m currently learning **PHP**
 - 📫 How to reach me: **felix.huel6@gmail.com**
-- 🔭 I’m currently working on my **PORTFOLIO** and **ENTERTAINMENT**, which is for fun.
+- 🔭 I’m currently working on my **PORTFOLIO** and **Styles**, which is for fun.
 
 ---
 
