@@ -8,24 +8,17 @@
   
 ### About me
 - 🌱 I’m currently learning **PHP**
-- 📫 How to reach me: **felix.huel6@gmail.com**
+- 📫 How to reach me: felix.huel6@gmail.com or 
+<a href="https://www.linkedin.com/in/felix-huel-1407a8283" target="blank">LinkedIn</a>
+
 - 🔭 I’m currently working on my **PORTFOLIO** and **Styles**, which is for fun.
-
----
-
-<details>
-<summary> Favourite all time things</summary>
-
-* [Fried Chicken](https://en.wikipedia.org/wiki/Fried_chicken)
-* [Bears](https://en.wikipedia.org/wiki/Bear)
-* [Bit Academy](https://www.bit-academy.nl/)
-
-</details>
 
 ---
 
 ### 💿 Now playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313hvrk7tpzadumr5udtqkuvxk2y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=33a346&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
 
 ### Portfolio
 > *pending...*
@@ -55,14 +48,6 @@
  
 
 </details>
-
----
-
-### Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/felix-huel-1407a8283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felix huel" height="30" width="40" /></a>
-<a href="https://instagram.com/steallix_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="steallix_" height="30" width="40" /></a>
-</p>
 
 ---
 
