@@ -18,15 +18,6 @@
 ### 💿 Now playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313hvrk7tpzadumr5udtqkuvxk2y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=33a346&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
----
-
-### Portfolio
-> *pending...*
-
----
-
-### Support:
-<p><a href="https://www.buymeacoffee.com/felixhuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy felix a coffee" /></a></p><br><br>
 </td
 
 <tr>
@@ -37,17 +28,13 @@
 
 ---
 
-### Stats:
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  
- ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felix-huel&layout=compact&theme=blue-green)
+### Portfolio
+> *pending...*
 
-  <img align="left" alt="felix' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felix-huel&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+---
 
- 
-
-</details>
+### Support:
+<p><a href="https://www.buymeacoffee.com/felixhuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy felix a coffee" /></a></p><br><br>
 
 ---
 
