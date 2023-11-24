@@ -11,7 +11,7 @@
 - 📫 How to reach me: felix.huel6@gmail.com or 
 <a href="https://www.linkedin.com/in/felix-huel-1407a8283" target="blank">LinkedIn</a>
 
-- 🔭 I’m currently working on **Fazbear**, which is a school project.
+- 🔭 I’m currently working on **Fazbear**, which is a school project. I'm also working on **BIT FCM**, which is a party committee for my school (it's a team project).
 
 ---
 
