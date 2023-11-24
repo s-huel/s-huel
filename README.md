@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Felix Huel </h1>
-<h4 align="center"> A passionate front-end student from the Netherlands </h4>
+<h4 align="center"> A passionate back-end student from the Netherlands </h4>
 
 <table>
 <tr>
@@ -11,7 +11,7 @@
 - 📫 How to reach me: felix.huel6@gmail.com or 
 <a href="https://www.linkedin.com/in/felix-huel-1407a8283" target="blank">LinkedIn</a>
 
-- 🔭 I’m currently working on my **PORTFOLIO** and **Styles**, which is for fun.
+- 🔭 I’m currently working on **Fazbear**, which is a school project.
 
 ---
 
