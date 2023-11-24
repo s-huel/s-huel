@@ -18,6 +18,11 @@
 ### 💿 Now playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313hvrk7tpzadumr5udtqkuvxk2y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=33a346&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+---
+
+### My github statitics
+![Felix' GitHub stats](https://github-readme-stats.vercel.app/api?username=f-huel&show_icons=true&theme=swift)</br>
+
 </td
 
 <tr>
@@ -37,6 +42,9 @@
 <p><a href="https://www.buymeacoffee.com/felixhuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy felix a coffee" /></a></p><br><br>
 
 ---
+
+### The languages I used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-huel&layout=compact)](https://github.com/f-huel/github-readme-stats)
 
 </td>
 </tr>
