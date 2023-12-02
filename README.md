@@ -7,7 +7,7 @@
 <td width="50%" valign="top">
   
 ### About me
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP**, **Tailwind CSS** and **Python**.
 - 📫 How to reach me: felix.huel6@gmail.com or 
 <a href="https://www.linkedin.com/in/felix-huel-1407a8283" target="blank">LinkedIn</a>
 
