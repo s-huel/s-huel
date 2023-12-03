@@ -11,7 +11,7 @@
 - 📫 How to reach me: felix.huel6@gmail.com or 
 <a href="https://www.linkedin.com/in/felix-huel-1407a8283" target="blank">LinkedIn</a>
 
-- 🔭 I’m currently working on **Tailwind**, which is a private repo to test out tailwind css and make something terrifying beatiful out of it!
+- 🔭 I’m currently thinking of a project idea... 
 
 ---
 
