@@ -11,7 +11,7 @@
 - 📫 How to reach me: felix.huel6@gmail.com or 
 <a href="https://www.linkedin.com/in/felix-huel-1407a8283" target="blank">LinkedIn</a>
 
-- 🔭 I’m currently working on a Wonka themed tailwind project... 
+- 🔭 I’m currently working on... 
 
 ---
 
