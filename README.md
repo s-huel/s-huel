@@ -15,6 +15,11 @@
 
 ---
 
+### Portfolio
+> *pending...*
+
+---
+
 ### 💿 Now playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313hvrk7tpzadumr5udtqkuvxk2y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=f08cbc&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -28,10 +33,6 @@
 
 ---
 
-### Portfolio
-> *pending...*
-
----
 
 ### Support:
 <p><a href="https://www.buymeacoffee.com/felixhuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy felix a coffee" /></a></p><br><br>
