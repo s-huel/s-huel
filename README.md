@@ -18,11 +18,6 @@
 ### 💿 Now playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313hvrk7tpzadumr5udtqkuvxk2y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=f08cbc&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
----
-
-### My github statitics
-![Felix' GitHub stats](https://github-readme-stats.vercel.app/api?username=f-huel&show_icons=true&theme=swift)</br>
-
 </td
 
 <tr>
@@ -45,6 +40,13 @@
 
 ### The languages I used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-huel&layout=compact)](https://github.com/f-huel/github-readme-stats)
+
+---
+
+
+### My github statitics
+![Felix' GitHub stats](https://github-readme-stats.vercel.app/api?username=f-huel&show_icons=true&theme=swift)</br>
+
 
 </td>
 </tr>
