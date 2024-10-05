@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Felix Huel </h1>
+<h1 align="center">Hi, I'm Serena Huel </h1>
 <h4 align="center"> A passionate back-end student from the Netherlands </h4>
 
 <table align="center">
