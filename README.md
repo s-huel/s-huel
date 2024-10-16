@@ -33,20 +33,14 @@
 
 ---
 
-
-### Support:
-<p><a href="https://www.buymeacoffee.com/felixhuel"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy felix a coffee" /></a></p><br><br>
-
----
-
 ### The languages I used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-huel&layout=compact)](https://github.com/f-huel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-huel&layout=compact)](https://github.com/s-huel/github-readme-stats)
 
 ---
 
 
 ### My github statitics
-![Felix' GitHub stats](https://github-readme-stats.vercel.app/api?username=f-huel&show_icons=true&theme=swift)</br>
+![Serena's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-huel&show_icons=true&theme=swift)</br>
 
 
 </td>
