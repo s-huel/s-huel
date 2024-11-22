@@ -7,7 +7,7 @@
 <td width="50%" valign="top">
   
 ### About me
-- 🌱 I’m currently learning **OOP for PHP** and **Python**. (I am learning React, TypeScript, Tailwind CSS and Java. I would love to learn Laravel, Vue.js and Flutter. I also want to improve my skills in Javascript :')
+- 🌱 I’m currently learning **Symfony**. (I am learning React, TypeScript, Tailwind CSS and Java. I would love to learn Laravel, Vue.js and Flutter. I also want to improve my skills in Javascript :')
 - 📫 How to reach me: serena.huel1@gmail.com / felix.huel6@gmail.com or 
 <a href="https://www.linkedin.com/in/felix-huel-1407a8283" target="blank">LinkedIn</a>
 
