@@ -9,7 +9,7 @@
 ### About me
 - 🌱 I’m currently learning **Python**. (I want to learn React, TypeScript, Tailwind CSS, Java, Laravel, Vue.js and Flutter. I also want to improve my skills in Javascript :')
 - 📫 How to reach me: serena.huel1@gmail.com or 
-<a href="https://www.linkedin.com/in/felix-huel-1407a8283" target="blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/serena-huel" target="blank">LinkedIn</a>
 
 - 🔭 I’m currently working on... *school*
 
