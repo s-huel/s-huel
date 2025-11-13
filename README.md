@@ -1,17 +1,17 @@
 
 <h1 align="center">Hi, I'm Serena Huel </h1>
-<h4 align="center"> A passionate back-end student from the Netherlands </h4>
+<h4 align="center"> A passionate Cyber Security student from the Netherlands </h4>
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
   
 ### About me
-- 🌱 I’m currently learning **Symfony**. (I want to learn React, TypeScript, Tailwind CSS, Java, Laravel, Vue.js and Flutter. I also want to improve my skills in Javascript :')
+- 🌱 I’m currently learning **Python**. (I want to learn React, TypeScript, Tailwind CSS, Java, Laravel, Vue.js and Flutter. I also want to improve my skills in Javascript :')
 - 📫 How to reach me: serena.huel1@gmail.com or 
 <a href="https://www.linkedin.com/in/felix-huel-1407a8283" target="blank">LinkedIn</a>
 
-- 🔭 I’m currently working on... 
+- 🔭 I’m currently working on... *school*
 
 ---
 
